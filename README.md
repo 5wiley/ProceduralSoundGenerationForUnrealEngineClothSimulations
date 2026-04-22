@@ -5,11 +5,9 @@ This repository contains research and implementation for generating procedural s
 ## Demo Videos
 
 ### Demo 1
-<video src="demo-1-tomcotton.mov" width="100%" controls>
-  Your browser does not support the video tag.
-</video>
+![Demo 1](demo-1-tomcotton.mov)
+[Download Demo 1](demo-1-tomcotton.mov)
 
 ### Demo 2
-<video src="demo-2-tomcotton_compressed.mp4" width="100%" controls>
-  Your browser does not support the video tag.
-</video>
+![Demo 2](demo-2-tomcotton_compressed.mp4)
+[Download Demo 2](demo-2-tomcotton_compressed.mp4)
